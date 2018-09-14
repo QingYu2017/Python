@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*- 
 #/root/Envs/v36/bin
+#Auth:Qing.Yu
+#Mail:1753330141@qq.com
+# Ver:V1.0
+#Date:2018-09-14
+
 
 import requests as r
 from bs4 import BeautifulSoup as bs
