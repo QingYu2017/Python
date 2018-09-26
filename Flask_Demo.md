@@ -1,3 +1,7 @@
+Flask + Bootstrap是一种强大的组合，可以优雅的分离后台业务逻辑和前端展示，让内网业务需求在开发过程中，让开发人员轻松跨过在UI把握能力上的短板。
+
+很多年前，PHP + DB + ExtJS的学习最终因为ExtJS的难以驾驭止步，而Flask + Bootstrap可以帮助企业的IT管理人员，轻松的实践自己的管理思路。
+
 ### 配置环境
 - Python 3.6.5
 - Flask Flas-Bootstrap
@@ -14,7 +18,6 @@
 #Date:2018-07-19
 
 from flask import Flask,render_template
-from app.func_getInfo import returnList
 from app.func_getInfo import returnArr
 from flask_bootstrap import Bootstrap
 
@@ -36,9 +39,7 @@ if __name__=='__main__':
 
 ### 功能定义
 ```python
-from app.cls_qqMail import obj_qqMail
 from app.cls_mssql import db_mssql
-import requests as r
 
 def returnArr():
     sql=db_mssql()
