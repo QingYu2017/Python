@@ -33,6 +33,9 @@ zbx中配置外部检查项
 数据信息的图形展示
 ![示例](https://github.com/QingYu2017/pic/blob/master/23.png)
 
+投资交易系统示例
+![示例](https://github.com/QingYu2017/pic/blob/master/24.png)
+
 ### 代码参考：
 ```python
 import requests as r,sys
