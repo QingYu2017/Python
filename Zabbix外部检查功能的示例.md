@@ -24,16 +24,16 @@
 - Qing Yu. 汇率信息的获取示例[EB／OL]. 2018. 
 
 ### 功能示例：
-执行脚本，输入币种和汇率类型做为参数，返回相应的当前行情
+执行脚本，输入币种和汇率类型做为参数，返回相应的当前美元现钞卖出价行情
 ![示例](https://github.com/QingYu2017/pic/blob/master/21.png)
 
 zbx中配置外部检查项
 ![示例](https://github.com/QingYu2017/pic/blob/master/22.png)
 
-数据信息的图形展示
+美元现钞卖出价行情的图形展示
 ![示例](https://github.com/QingYu2017/pic/blob/master/23.png)
 
-投资交易系统示例
+投资交易系统交易笔数示例
 ![示例](https://github.com/QingYu2017/pic/blob/master/24.png)
 
 ### 代码参考：
