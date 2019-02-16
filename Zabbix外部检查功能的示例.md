@@ -1,8 +1,8 @@
 ```shell
-#Auth:Qing.Yu
-#Mail:1753330141@qq.com
-# Ver:V1.0
-#Date:2019-02-13
+Auth:Qing.Yu
+Mail:1753330141@qq.com
+ Ver:V1.0
+Date:2019-02-13
 ```
 
 ### 摘要说明
