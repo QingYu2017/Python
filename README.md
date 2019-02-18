@@ -15,3 +15,7 @@
 Flask框架下的web开发
 - [Flask_Demo](https://github.com/QingYu2017/Python/blob/master/Flask_Demo.md)
 
+### 腾讯API相关
+- [腾讯企业邮箱](https://github.com/QingYu2017/Tencent-Manager/blob/master/cls_qqMail.py)
+- [微信企业号](https://github.com/QingYu2017/Tencent-Manager/blob/master/cls_Weichat.py)
+
